@@ -59,7 +59,7 @@ while True:
 
     cTime = time.time()
     fps = 1 / (cTime - pTime)
-    ptime = cTime
+    pTime = cTime
 
     cv2.putText(img, f'FPS: {int(fps)}', (400, 70), cv2.FONT_HERSHEY_PLAIN, 3, (255, 0, 0), 3)
 
