@@ -20,3 +20,7 @@ Face Recognition will recognize who you are. Face Recognition learns images you 
 ### Finger Counting
 Run ```FingerCountingProject.py``` and count numbers with your hand.
 Count numbers with your fingers. It will show you the number.
+
+## Object Detection
+### YOLOv5
+For object detection, YOLOv5 can be used. You can run ```torch_yolov5.py``` and see the result of prediction.
